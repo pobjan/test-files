@@ -97,9 +97,10 @@ Left column | Center column | Right column
 
 // Backslash escapes
 | Characters | Escape |     Description     |
-| \	         | \\     | backslash           |
+| ---------- | ------ | ------------------- |
+| \	       | \\     | backslash           |
 | `          | \`     |	backtick            |
-| *	         | \*     |	asterisk            |
+| *	       | \*     |	asterisk            |
 | _          | \_     | underscore          |
 | {}         | \{}    | curly braces        |
 | []         | \[]    | square brackets     |
