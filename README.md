@@ -83,11 +83,11 @@ Left column | Center column | Right column
    Cell 2   |    Cell 3     |     $12
 
 // Images
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://www.google.pl/logos/doodles/2025/valentines-day-2025-6753651837110609.5-l.webp)
 
 ![Alt Text](url)
 
-[![GitHub Logo](/images/logo.png)](https://github.com/)
+[![GitHub Logo](https://www.google.pl/logos/doodles/2025/valentines-day-2025-6753651837110609.5-l.webp)](https://google.com/)
 
 [![Alt Text](image_url)](link_url)
 
